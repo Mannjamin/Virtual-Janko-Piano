@@ -15,7 +15,7 @@ Here is a comparison image of my virtual version:
 ## Purpose of the Virtual Janko Keyboard
 The popularity of the generic keyboard design which has been in use for centuries, has quenched the curiousity of the bold to try new and interesting methods of producing musical art in the form of a keyboard. There are many different layouts of piano keyboard such as Lippens and the Isomorphic keyboards. 
 
-In our current age with the advances of technology, there are many websites suited to allowing indiviuals the oppotunity to play virtual pianos. Most of which only utilise the generic layout. 
+In our current age with the advances of technology, there are many websites suited to allowing indiviuals the opportunity to play virtual pianos. Most of which only utilise the generic layout. 
 
 Generic Keyboard Layout for reference:
 ![generic keyboard layout](https://2012books.lardbucket.org/books/music-theory/section_07/df773c10acab9d35f0c294e0d6f1fe4a.jpg)
@@ -28,7 +28,7 @@ The overall purpose of this virtual piano was to prodive with with an oppotunity
 This repository contains all the files I have programmed thus far in the development of this application. To use this, simply press clone / download and continue to download as a ZIP file.
 
 Once you have gathered the folder containing this repositories scripts you follow the following steps.
-1. extract the zip and open the folder containing the scripts. Create a new folder within the parent folder called "sounds"
+1. extract the zip and open the folder containing the scripts. Create a new folder within the parent folder called "sounds".
     1. _I wish to iterate that the sound files used in this virtual piano are licenced and thus I do not wish to suffer the burden in the event that the publisher takes action against me for uploading their files. Please continue the following steps properly in order to make the keyboard functional. The audio files used in this project are free for all to use however, I advise downloading them from the point of origin.._
 
 2. Gather the Audio Files.
@@ -49,16 +49,16 @@ Once you have gathered the folder containing this repositories scripts you follo
          1. _I hope you enjoy it <3_ 
 
 # Future Improvements
-1.  Animate the Buttons (Change Color / Border on keypress)
+1.  Animate the Buttons (Change Color / Border on keypress).
 
-2.  Make Buttons functional (Currently used for representation only, can be made functional for touch surfaces.)
+2.  Make Buttons functional (Currently used for representation only, can be made functional for touch surfaces).
 
-3.  Utilise other sounds (Make other sounds such as a Synth or Bass)
+3.  Utilise other sounds (Make other sounds such as a Synth or Bass).
 
 4.  Adjust the size of the keybed to match full screen on any resolution.
 
 ### Support:
-If you have any queries or wish to show me an adapted version you have cerated, please join my discord!
+If you have any queries or wish to show me an adapted version you have created, please join my discord!
 I would be more than happy to answer any questions or check out any versions you have created using this script!
 
 [Mannjamins Dungeon Link!](https://discord.gg/rGqFhQ5)
